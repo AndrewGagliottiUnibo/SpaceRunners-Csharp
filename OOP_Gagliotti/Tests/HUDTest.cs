@@ -33,7 +33,7 @@ namespace TestProject1
             Assert.IsTrue(this.life.GetLifePoints() == THREE);
             Assert.IsTrue(this.life.GetStatus());
 
-            // Increment
+            // Increment - also border line case: lives can't be more than 4
             this.life.LifeUp();
             Assert.IsTrue(this.life.GetLifePoints() == FOUR);
             Assert.IsTrue(this.life.GetStatus());
