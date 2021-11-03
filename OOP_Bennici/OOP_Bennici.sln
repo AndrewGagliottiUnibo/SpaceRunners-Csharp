@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Bennici", "OOP_Bennici\OOP_Bennici.csproj", "{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Bennici_Test", "OOP_Bennici_Test\OOP_Bennici_Test.csproj", "{DA7F2483-274F-4F1B-B05C-F67F4D80A82C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7} = {C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13C6279-5FFA-4BA8-ABBF-AEB997D8ECC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7F2483-274F-4F1B-B05C-F67F4D80A82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7F2483-274F-4F1B-B05C-F67F4D80A82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7F2483-274F-4F1B-B05C-F67F4D80A82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7F2483-274F-4F1B-B05C-F67F4D80A82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9696D1D3-84BB-4479-A197-2D1318E6B732}
+	EndGlobalSection
+EndGlobal

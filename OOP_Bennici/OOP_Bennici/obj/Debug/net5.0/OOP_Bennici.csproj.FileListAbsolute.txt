@@ -1,0 +1,16 @@
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.exe
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.deps.json
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.runtimeconfig.json
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.runtimeconfig.dev.json
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.dll
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\ref\OOP_Bennici.dll
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\bin\Debug\net5.0\OOP_Bennici.pdb
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.csproj.AssemblyReference.cache
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.AssemblyInfoInputs.cache
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.AssemblyInfo.cs
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.csproj.CoreCompileInputs.cache
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.dll
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\ref\OOP_Bennici.dll
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.pdb
+C:\Users\tarta\source\repos\OOP_Bennici\OOP_Bennici\obj\Debug\net5.0\OOP_Bennici.genruntimeconfig.cache

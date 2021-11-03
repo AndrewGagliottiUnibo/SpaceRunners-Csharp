@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OOP_Bennici/1.0.0": {
+        "runtime": {
+          "OOP_Bennici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_Bennici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
