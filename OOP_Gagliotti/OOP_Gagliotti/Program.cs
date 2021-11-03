@@ -6,7 +6,7 @@ namespace OOP_Gagliotti
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Java is better! ;)");
         }
     }
 }
