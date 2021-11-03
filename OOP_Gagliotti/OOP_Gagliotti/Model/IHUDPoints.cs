@@ -1,4 +1,4 @@
-﻿namespace OOP_Gagliotti.Model;
+﻿namespace OOP_Gagliotti.Model
 {
     /// <summary>
     /// Points HUD interface.

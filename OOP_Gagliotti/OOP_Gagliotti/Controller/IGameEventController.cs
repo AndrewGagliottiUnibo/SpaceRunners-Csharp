@@ -1,4 +1,6 @@
-﻿namespace OOP_Gagliotti.Controller
+﻿using OOP_Gagliotti.Model;
+
+namespace OOP_Gagliotti.Controller
 {
     /// <summary>
     /// I could implements the behaviour of this class partially: this is due to fact to not esagerate 

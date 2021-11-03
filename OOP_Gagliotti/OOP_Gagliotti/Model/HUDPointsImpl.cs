@@ -46,7 +46,7 @@ namespace OOP_Gagliotti.Model
             }
             else
             {
-                this.PointsSetter(POINTS_DOWN);
+                this.PointsSetter(- POINTS_DOWN);
             }
         }
 

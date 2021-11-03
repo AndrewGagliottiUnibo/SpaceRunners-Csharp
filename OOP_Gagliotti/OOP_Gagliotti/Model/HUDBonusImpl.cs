@@ -32,14 +32,20 @@
 
         public void ShowBonus(int index)
         {
-            this.statusTracker[index] = true;
-            //here missing GUI update
+            if (this.GetTracker(index) != true)
+            {
+                this.statusTracker[index] = true;
+                //here missing GUI update
+            }
         }
 
         public void HideBonus(int index)
         {
-            this.statusTracker[index] = false;
-            //here missing GUI update
+            if (this.GetTracker(index) != false)
+            {
+                this.statusTracker[index] = false;
+                //here missing GUI update
+            }
         }
 
         public bool GetTracker(int index)

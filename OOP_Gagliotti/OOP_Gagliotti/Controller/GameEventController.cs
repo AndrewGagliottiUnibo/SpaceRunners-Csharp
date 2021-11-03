@@ -1,4 +1,5 @@
-﻿using OOP_Gagliotti.View;
+﻿using OOP_Gagliotti.Model;
+using OOP_Gagliotti.View;
 using System;
 
 namespace OOP_Gagliotti.Controller

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOP_Gagliotti\\OOP_Gagliotti\\OOP_Gagliotti.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Gagliotti\\OOP_Gagliotti\\OOP_Gagliotti.csproj",
       "projectName": "OOP_Gagliotti",
-      "projectPath": "C:\\Users\\andre\\Desktop\\OOP_Gagliotti\\OOP_Gagliotti\\OOP_Gagliotti.csproj",
+      "projectPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Gagliotti\\OOP_Gagliotti\\OOP_Gagliotti.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\OOP_Gagliotti\\OOP_Gagliotti\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Gagliotti\\OOP_Gagliotti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
