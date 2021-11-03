@@ -1,6 +1,4 @@
-﻿using OOP_Csharp.Model;
-
-namespace OOP_Csharp
+﻿namespace OOP_Csharp.Model
 {
     /// <summary>
     /// HUD bonuses partial implementation.

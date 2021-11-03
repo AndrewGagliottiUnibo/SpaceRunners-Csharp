@@ -1,4 +1,4 @@
-﻿namespace OOP_Csharp.Model
+﻿namespace OOP_Csharp
 {
     /// <summary>
     /// Points HUD interface.

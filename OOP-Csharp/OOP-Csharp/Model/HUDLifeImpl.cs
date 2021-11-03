@@ -1,7 +1,7 @@
-﻿using OOP_Csharp.Model;
+﻿using OOP_Csharp;
 using System;
 
-namespace OOP_Csharp
+namespace OOP_Csharp.Model
 {
     /// <summary>
     /// HUD lives partial implementation.

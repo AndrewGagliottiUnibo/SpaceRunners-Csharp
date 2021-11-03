@@ -1,6 +1,6 @@
 ﻿using OOP_Csharp.Model;
 
-namespace OOP_Csharp
+namespace OOP_Csharp.Controller
 {
     /// <summary>
     /// I could implements the behaviour of this class partially: this is due to fact to not esagerate 

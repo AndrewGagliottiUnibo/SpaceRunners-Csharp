@@ -1,7 +1,6 @@
 ﻿using OOP_Csharp.Model;
-using OOP_Csharp.View;
 
-namespace OOP_Csharp
+namespace OOP_Csharp.View
 {
     /// <summary>
     /// View implementations that realize a bridge to the controller.
