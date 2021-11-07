@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.exe
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.deps.json
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.runtimeconfig.json
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.runtimeconfig.dev.json
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.dll
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\bin\Debug\netcoreapp3.1\OOP_Nica.pdb
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.dll
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.pdb
+C:\Users\Cristian\Desktop\progettoc#2\SpaceRunners-Csharp\OOP_Nica\OOP_Nica\OOP_Nica\obj\Debug\netcoreapp3.1\OOP_Nica.genruntimeconfig.cache

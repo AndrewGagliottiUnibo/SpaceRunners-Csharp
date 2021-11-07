@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\Cristian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
       "projectName": "OOP_Nica",
-      "projectPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\obj\\",
+      "projectPath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
+      "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,6 +55,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.20, 3.1.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

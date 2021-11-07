@@ -6130,19 +6130,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\Cristian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\TestProject1.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\obj\\",
+      "projectPath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6156,8 +6156,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj": {
-              "projectPath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj"
+            "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj": {
+              "projectPath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj"
             }
           }
         }
@@ -6199,6 +6199,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hn8dksZnmF1V6g/1yItCLq+G46vv0BFiw+q6GWSF6YqqF/OPNTukwrGl/Sxzk/temgg3IbvdVWhrBsK5KlKuxA==",
+  "dgSpecHash": "XsyVVCJLaDdyHM3+CDKhJ/jJ5mNPTlEwpM+UxlhEnyw/MDwQbtY9Eat6WOg+5GSif4lK7KL3oBAZS9Apshz3Gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Desktop\\OOP_Project\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Cristian\\Desktop\\progettoc#2\\SpaceRunners-Csharp\\OOP_Nica\\OOP_Nica\\OOP_Nica\\OOP_Nica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
   "logs": []
 }

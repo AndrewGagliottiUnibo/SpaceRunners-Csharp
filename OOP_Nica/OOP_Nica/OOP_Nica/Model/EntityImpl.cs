@@ -10,10 +10,9 @@
         private bool canFire;
         private string direction;
 
-        public EntityImpl(string name, string direction)
+        public EntityImpl()
         {
-            this.name = name;
-            this.direction = direction;
+         
         }
 
         public void SetPosition(int x, int y)
