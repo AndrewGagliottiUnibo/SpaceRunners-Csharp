@@ -2,6 +2,7 @@
 {
     public class EntityImpl : IEntity
     {
+        private readonly string name;
         private int speed;
         private int horrizontalSpeed;
         private int positionX;
@@ -9,8 +10,9 @@
         private bool canFire;
         private string direction;
 
-        public EntityImpl(string direction)
+        public EntityImpl(string name, string direction)
         {
+            this.name = name;
             this.direction = direction;
         }
 
@@ -76,6 +78,15 @@
         public string GetDirection()
         {
             return this.direction;
+        }
+
+        /// <summary>
+        /// Shows name value.
+        /// </summary>
+        /// <returns> name value </returns>
+        public string GetName()
+        {
+            return this.name;
         }
     }
 }
