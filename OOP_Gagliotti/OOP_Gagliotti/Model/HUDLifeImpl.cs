@@ -11,8 +11,6 @@ namespace OOP_Gagliotti.Model
         /// Variables.
         /// </summary>
         private readonly int ZERO = 0;
-        private readonly int LIFE_UP = 1;
-        private readonly int LIFE_DOWN = -1;
         private readonly int INITIAL_LIFE_POINTS = 3;
         private readonly int LESS_LIVES_POSSIBLE = 1;
         private readonly int MAX_LIVE_POSSIBLE = 4;
